@@ -1,0 +1,6 @@
+Job Title,Budget,Deadline,Score,Skills,Matched Skills,Match Percentage,Workload,Red Flags,Recommendation
+Data analyst intern ,12000,10,10,"Python, SQL, Excel","Python, SQL, Excel",100,Normal Workload,,APPLY
+React developer,15000,14,8,"Java, JavaScript, React, Node.js",,0,Normal Workload,,DON'T APPLY
+Social Media Content Designer,7000,7,9,"Canva, Social Media","Canva, Social Media",100,Normal Workload,,APPLY
+Social Media Designer,1000,2,0,,,0,High Workload,"Very low budget, Very tight deadline, Urgent project, Requests free work, Offers exposure instead of proper payment, Unlimited revisions",DON'T APPLY
+Excel Assistant,3000,5,4,Excel,Excel,100,Normal Workload,,DON'T APPLY
